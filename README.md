@@ -25,6 +25,8 @@
 ## Github
 ![Dev-PauloVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-PauloVictor&show_icons=true&theme=dark)
 
+![snaker animation](https://github.com/Dev-PauloVictor)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
-![snaker animation](https://github.com/Dev-PauloVictor/Dev-PauloVictor/blob/output/github-contribution-grid-snake.svg)
+
