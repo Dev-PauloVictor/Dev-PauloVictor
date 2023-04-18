@@ -23,7 +23,8 @@
 
 
 ## Github
-![Dev-PauloVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-PauloVictor&show_icons=true&theme=dark)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-PauloVictor&show_icons=true&theme=radical)
 
 ![Snake animation](https://github.com/Dev-PauloVictor/Dev-PauloVictor/blob/output/github-contribution-grid-snake.svg)
 
