@@ -7,7 +7,6 @@
 
 ## Contato
 [![Blog](https://img.shields.io/website?label=Meu-Portfólio.com&style=for-the-badge&url=http://portfolio-paulo.epizy.com)](http://portfolio-paulo.epizy.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorr9i)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulovgomes23@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-b0509b17b/)
 ## Tecnologias que eu uso no meu dia a dia
